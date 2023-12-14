@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/proxy/*"
+  to = "https://hilarious-cajeta-4c74c2.netlify.app//:splat"
+  status = 200
+  force = true
