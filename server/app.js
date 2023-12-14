@@ -8,7 +8,7 @@ const convert = require('xml-js');
 const app = express();
 
 app.use(cors({
-    origin: 'https://effulgent-trifle-9c5447.netlify.app',
+    origin: 'https://hilarious-cajeta-4c74c2.netlify.app',
     methods: 'GET, POST, PUT, DELETE',
     credentials: true,
 }));
